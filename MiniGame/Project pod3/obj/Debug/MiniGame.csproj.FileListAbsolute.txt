@@ -1,0 +1,10 @@
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\bin\Debug\Project pod3.exe.config
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\bin\Debug\Project pod3.exe
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\bin\Debug\Project pod3.pdb
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\MiniGame.csproj.AssemblyReference.cache
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project_pod3.Properties.Resources.resources
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\MiniGame.csproj.GenerateResource.cache
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\MiniGame.csproj.CoreCompileInputs.cache
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project pod3.exe
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project pod3.pdb
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project_pod3.Form1.resources

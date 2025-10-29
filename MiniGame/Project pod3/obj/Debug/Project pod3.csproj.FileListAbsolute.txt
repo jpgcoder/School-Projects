@@ -1,0 +1,42 @@
+D:\Project\Project pod3\Project pod3\bin\Debug\Project pod3.exe.config
+D:\Project\Project pod3\Project pod3\bin\Debug\Project pod3.exe
+D:\Project\Project pod3\Project pod3\bin\Debug\Project pod3.pdb
+D:\Project\Project pod3\Project pod3\obj\Debug\Project pod3.csprojAssemblyReference.cache
+D:\Project\Project pod3\Project pod3\obj\Debug\Project_pod3.Form1.resources
+D:\Project\Project pod3\Project pod3\obj\Debug\Project_pod3.Properties.Resources.resources
+D:\Project\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.GenerateResource.cache
+D:\Project\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.CoreCompileInputs.cache
+D:\Project\Project pod3\Project pod3\obj\Debug\Project pod3.exe
+D:\Project\Project pod3\Project pod3\obj\Debug\Project pod3.pdb
+E:\project\Project pod3\Project pod3\bin\Debug\Project pod3.exe.config
+E:\project\Project pod3\Project pod3\bin\Debug\Project pod3.exe
+E:\project\Project pod3\Project pod3\bin\Debug\Project pod3.pdb
+E:\project\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.AssemblyReference.cache
+E:\project\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.SuggestedBindingRedirects.cache
+E:\project\Project pod3\Project pod3\obj\Debug\Project_pod3.Form1.resources
+E:\project\Project pod3\Project pod3\obj\Debug\Project_pod3.Properties.Resources.resources
+E:\project\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.GenerateResource.cache
+E:\project\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.CoreCompileInputs.cache
+E:\project\Project pod3\Project pod3\obj\Debug\Project pod3.exe
+E:\project\Project pod3\Project pod3\obj\Debug\Project pod3.pdb
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\bin\Debug\Project pod3.exe.config
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\bin\Debug\Project pod3.exe
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\bin\Debug\Project pod3.pdb
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.AssemblyReference.cache
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\obj\Debug\Project_pod3.Form1.resources
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\obj\Debug\Project_pod3.Properties.Resources.resources
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.GenerateResource.cache
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\obj\Debug\Project pod3.csproj.CoreCompileInputs.cache
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\obj\Debug\Project pod3.exe
+C:\Users\Pegah\Desktop\Project pod3\Project pod3\obj\Debug\Project pod3.pdb
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\bin\Debug\Project pod3.exe.config
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\bin\Debug\Project pod3.exe
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\bin\Debug\Project pod3.pdb
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project pod3.csproj.AssemblyReference.cache
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project_pod3.Form1.resources
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project_pod3.Properties.Resources.resources
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project pod3.csproj.GenerateResource.cache
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project pod3.csproj.CoreCompileInputs.cache
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project pod3.exe
+E:\school\پروژه پودمان 3؛ رجبعلی و جنابی\Project pod3\obj\Debug\Project pod3.pdb

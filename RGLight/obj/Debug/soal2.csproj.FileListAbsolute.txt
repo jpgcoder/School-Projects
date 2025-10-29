@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\bin\Debug\soal2.exe.config
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\bin\Debug\soal2.exe
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\bin\Debug\soal2.pdb
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\obj\Debug\soal2.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\obj\Debug\soal2.Form1.resources
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\obj\Debug\soal2.Properties.Resources.resources
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\obj\Debug\soal2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\obj\Debug\soal2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\obj\Debug\soal2.exe
+C:\Users\admin\Desktop\Pegah Jenabi\soal2\obj\Debug\soal2.pdb
+E:\school\11\-- Pegah Jenabi --\soal2\bin\Debug\soal2.exe.config
+E:\school\11\-- Pegah Jenabi --\soal2\bin\Debug\soal2.exe
+E:\school\11\-- Pegah Jenabi --\soal2\bin\Debug\soal2.pdb
+E:\school\11\-- Pegah Jenabi --\soal2\obj\Debug\soal2.csproj.AssemblyReference.cache
+E:\school\11\-- Pegah Jenabi --\soal2\obj\Debug\soal2.Form1.resources
+E:\school\11\-- Pegah Jenabi --\soal2\obj\Debug\soal2.Properties.Resources.resources
+E:\school\11\-- Pegah Jenabi --\soal2\obj\Debug\soal2.csproj.GenerateResource.cache
+E:\school\11\-- Pegah Jenabi --\soal2\obj\Debug\soal2.csproj.CoreCompileInputs.cache
+E:\school\11\-- Pegah Jenabi --\soal2\obj\Debug\soal2.exe
+E:\school\11\-- Pegah Jenabi --\soal2\obj\Debug\soal2.pdb
