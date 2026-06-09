@@ -1,0 +1,46 @@
+C:\Users\admin\Desktop\picturePuzzle\bin\Debug\picturePuzzle.exe.config
+C:\Users\admin\Desktop\picturePuzzle\bin\Debug\picturePuzzle.exe
+C:\Users\admin\Desktop\picturePuzzle\bin\Debug\picturePuzzle.pdb
+C:\Users\admin\Desktop\picturePuzzle\obj\Debug\picturePuzzle.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\picturePuzzle\obj\Debug\picturePuzzle.Form1.resources
+C:\Users\admin\Desktop\picturePuzzle\obj\Debug\picturePuzzle.Properties.Resources.resources
+C:\Users\admin\Desktop\picturePuzzle\obj\Debug\picturePuzzle.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\picturePuzzle\obj\Debug\picturePuzzle.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\picturePuzzle\obj\Debug\picturePuzzle.exe
+C:\Users\admin\Desktop\picturePuzzle\obj\Debug\picturePuzzle.pdb
+C:\Users\admin\Desktop\picturePuzzle\obj\Debug\picturePuzzle.Form2.resources
+F:\picturePuzzle\bin\Debug\picturePuzzle.exe.config
+F:\picturePuzzle\bin\Debug\picturePuzzle.exe
+F:\picturePuzzle\bin\Debug\picturePuzzle.pdb
+F:\picturePuzzle\obj\Debug\picturePuzzle.Form1.resources
+F:\picturePuzzle\obj\Debug\picturePuzzle.Form2.resources
+F:\picturePuzzle\obj\Debug\picturePuzzle.Properties.Resources.resources
+F:\picturePuzzle\obj\Debug\picturePuzzle.csproj.GenerateResource.cache
+F:\picturePuzzle\obj\Debug\picturePuzzle.csproj.CoreCompileInputs.cache
+F:\picturePuzzle\obj\Debug\picturePuzzle.exe
+F:\picturePuzzle\obj\Debug\picturePuzzle.pdb
+F:\picturePuzzle\obj\Debug\picturePuzzle.csproj.AssemblyReference.cache
+F:\picturePuzzle\obj\Debug\picturePuzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pegah\Desktop\programming\picturePuzzle\bin\Debug\picturePuzzle.exe.config
+C:\Users\Pegah\Desktop\programming\picturePuzzle\bin\Debug\picturePuzzle.exe
+C:\Users\Pegah\Desktop\programming\picturePuzzle\bin\Debug\picturePuzzle.pdb
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.csproj.AssemblyReference.cache
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.Form1.resources
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.Form2.resources
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.Properties.Resources.resources
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.csproj.GenerateResource.cache
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.exe
+C:\Users\Pegah\Desktop\programming\picturePuzzle\obj\Debug\picturePuzzle.pdb
+E:\school\11\نمایشگاه 1\picturePuzzle\bin\Debug\picturePuzzle.exe.config
+E:\school\11\نمایشگاه 1\picturePuzzle\bin\Debug\picturePuzzle.exe
+E:\school\11\نمایشگاه 1\picturePuzzle\bin\Debug\picturePuzzle.pdb
+E:\school\11\نمایشگاه 1\picturePuzzle\obj\Debug\picturePuzzle.csproj.AssemblyReference.cache
+E:\school\11\نمایشگاه 1\picturePuzzle\obj\Debug\picturePuzzle.Form1.resources
+E:\school\11\نمایشگاه 1\picturePuzzle\obj\Debug\picturePuzzle.Form2.resources
+E:\school\11\نمایشگاه 1\picturePuzzle\obj\Debug\picturePuzzle.Properties.Resources.resources
+E:\school\11\نمایشگاه 1\picturePuzzle\obj\Debug\picturePuzzle.csproj.GenerateResource.cache
+E:\school\11\نمایشگاه 1\picturePuzzle\obj\Debug\picturePuzzle.csproj.CoreCompileInputs.cache
+E:\school\11\نمایشگاه 1\picturePuzzle\obj\Debug\picturePuzzle.exe
+E:\school\11\نمایشگاه 1\picturePuzzle\obj\Debug\picturePuzzle.pdb
